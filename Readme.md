@@ -1,10 +1,3 @@
-GITHUB
-FIRST COMMIT - GIT COURSE
+Linkedin
 
-
-
-
-
-
-
-teste nova linha
+Currículo disponível em [Linkedin](http://linkedin.com/in/jonathas-garcia)
